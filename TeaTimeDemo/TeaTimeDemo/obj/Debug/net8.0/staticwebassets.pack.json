@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeaTimeDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TeaTimeDemo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\02d9fc50-60ac-47da-948f-eb35868e6a07.png",
+      "PackagePath": "staticwebassets\\images\\product\\02d9fc50-60ac-47da-948f-eb35868e6a07.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\10d14cc2-af53-468e-b971-20b35a9e8a36.png",
+      "PackagePath": "staticwebassets\\images\\product\\10d14cc2-af53-468e-b971-20b35a9e8a36.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\15dc7694-6f02-4039-b139-08ed6b2bd5b9.png",
+      "PackagePath": "staticwebassets\\images\\product\\15dc7694-6f02-4039-b139-08ed6b2bd5b9.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\1f07e101-e90c-46f5-a7af-2de1144e7ddf.png",
+      "PackagePath": "staticwebassets\\images\\product\\1f07e101-e90c-46f5-a7af-2de1144e7ddf.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\33a4c329-d732-4e68-a836-2edc833e4af5.png",
+      "PackagePath": "staticwebassets\\images\\product\\33a4c329-d732-4e68-a836-2edc833e4af5.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\4274db3d-6916-4fdd-bec2-fc6cce5aa764.png",
+      "PackagePath": "staticwebassets\\images\\product\\4274db3d-6916-4fdd-bec2-fc6cce5aa764.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\6210c7c1-4ff4-44a8-8a96-8da41ff74f3d.png",
+      "PackagePath": "staticwebassets\\images\\product\\6210c7c1-4ff4-44a8-8a96-8da41ff74f3d.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\76fcc9ba-beac-48c8-beac-946fc02f8945.png",
+      "PackagePath": "staticwebassets\\images\\product\\76fcc9ba-beac-48c8-beac-946fc02f8945.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\7705b08b-526a-4a8f-8532-af4c18549d0d.png",
+      "PackagePath": "staticwebassets\\images\\product\\7705b08b-526a-4a8f-8532-af4c18549d0d.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\7bb5b535-ef95-4ffa-a443-79ba09ab59f7.png",
+      "PackagePath": "staticwebassets\\images\\product\\7bb5b535-ef95-4ffa-a443-79ba09ab59f7.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\80747c56-d94b-4593-89a2-dc78ecc8bd3a.png",
+      "PackagePath": "staticwebassets\\images\\product\\80747c56-d94b-4593-89a2-dc78ecc8bd3a.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\b0ee8976-a29a-4460-8a12-6e2a4db0592c.png",
+      "PackagePath": "staticwebassets\\images\\product\\b0ee8976-a29a-4460-8a12-6e2a4db0592c.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\bc18d282-0a8b-454e-b2ed-ce78ad517a09.png",
+      "PackagePath": "staticwebassets\\images\\product\\bc18d282-0a8b-454e-b2ed-ce78ad517a09.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\c2d9300d-6176-4e91-a72b-c0cb9a6a4582.png",
+      "PackagePath": "staticwebassets\\images\\product\\c2d9300d-6176-4e91-a72b-c0cb9a6a4582.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\cbfd19e4-b002-44c8-ad0a-a888468a1309.png",
+      "PackagePath": "staticwebassets\\images\\product\\cbfd19e4-b002-44c8-ad0a-a888468a1309.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\images\\product\\f1651a19-c373-4308-963a-32ba7cd9aa56.png",
+      "PackagePath": "staticwebassets\\images\\product\\f1651a19-c373-4308-963a-32ba7cd9aa56.png"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\js\\store.js",
+      "PackagePath": "staticwebassets\\js\\store.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#\\TeaTimeDemo\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeaTimeDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TeaTimeDemo.props",
+      "PackagePath": "build\\TeaTimeDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TeaTimeDemo.props",
+      "PackagePath": "buildMultiTargeting\\TeaTimeDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TeaTimeDemo.props",
+      "PackagePath": "buildTransitive\\TeaTimeDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
